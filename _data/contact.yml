@@ -2,23 +2,23 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/OfVagueRepose"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: bluesky
-  icon: "fa-brands fa-bluesky"
-  url: "" # Fill with your Bluesky profile link
+# - type: bluesky
+#   icon: "fa-brands fa-bluesky"
+#   url: "" # Fill with your Bluesky profile link
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
-  url: ""
-
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
-  url: ""
+  url: "ofvaguerepost.outlook.com"
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
+#   url: ""
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
