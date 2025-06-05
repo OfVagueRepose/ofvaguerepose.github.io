@@ -31,7 +31,7 @@
 #
 - type: bluesky
   icon: "fa-brands fa-bluesky"
-  url: "@ofvaguerepose.bsky.social" # Fill with your Bluesky profile link
+  url: "https://bsky.app/profile/ofvaguerepose.bsky.social"
 #
 # - type: reddit
 #   icon: 'fa-brands fa-reddit'
