@@ -5,8 +5,8 @@ categories: [Question The Future]
 tags: [tech, ai]     # TAG names should always be lowercase
 ---
 
-![Light mode only](assets/img/posts/time_wiki_light.png){: .light }
-![Dark mode only](assets/img/posts/time_wiki_dark.png){: .dark }
+![Light mode only](assets/img/posts/time_wiki_light.png){: .light width="50%" style="display:block; margin-left:auto; margin-right:auto" }
+![Dark mode only](assets/img/posts/time_wiki_dark.png){: .dark width="50%" style="display:block; margin-left:auto; margin-right:auto" }
 
 Desperation is the ends that justify any means. Drown the sense of self in the mire of automation. Replace your every thought and choice with a recommendation. Do not question from where it comes and how it's made. It shall ease your trudge through work meaningless and content shallow. It costs little more than egregious energy and water consumption, inhumane global south work conditions, the continued facilitation of consumerism, and your very humanity. It is in its illusion of quality and convenience that it dismisses these questions of cost. The relocation of responsibility to those willing to exploit. You trust the CEO to answer to our worldly needs? To measure value in one's soul? Savor these questions while you can, in the fleeting moments when you're not overworked, underpaid, late on bills, with unmet necessities. The question will die as but a thought in this forced inaction. Forced in action to consume to not be consumed. You will look away in shame and do nothing about it. Know that I do not blame you, fully, that is. You have not wrought this structure into being, merely allowed it into your soul unquestioned.
 
