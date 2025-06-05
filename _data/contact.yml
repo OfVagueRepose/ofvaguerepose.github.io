@@ -4,12 +4,8 @@
   icon: "fab fa-github"
   url: "https://github.com/OfVagueRepose"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
-
-# - type: bluesky
-#   icon: "fa-brands fa-bluesky"
-#   url: "" # Fill with your Bluesky profile link
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
